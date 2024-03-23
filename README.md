@@ -36,6 +36,7 @@ The following abilities added in FM have been removed
 
 
 | LV |    PICKED SWORD   |   PICKED SHIELD   |    PICKED STAFF   |
+|----|-------------------|-------------------|-------------------|
 |  4 | Scan              | Scan              | Scan              |
 |  7 | Combo Boost       | Item Boost        | Experience Boost  |
 |  9 | Experience Boost  | Combo Boost       | Item Boost        |
