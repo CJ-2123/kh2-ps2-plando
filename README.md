@@ -1,6 +1,21 @@
 # kh2-ps2-plando
-An attempt to recreate Kingdom Hearts 2 non final mix on PS2 for PC
+An attempt to recreate Kingdom Hearts 2 non final mix on PS2 for PC using https://custom-seed-generator.web.app/
 
+# Table of Contents
+- [Equipment](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#equipment)
+	- [Keyblades](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#keyblades)
+ 	- [Armor and Accesories](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#armor-and-accessories)
+  	- [Donald and Goofy](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#donald-and-goofy)
+- [Abilities](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#abilities)
+	- [Level Chart](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#level-chart)
+ 	- [World Specific Reward Changes](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#world-specific-reward-changes)
+- [Treasures](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#treasures)
+- [Drive Forms](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#drive-forms)
+- [Removed FM Content](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#removal-of-fm-content)
+	- [FM content remaining](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#fm-content-remaining)
+- [Recommended Mods](https://github.com/CJ-2123/kh2-ps2-plando/edit/main/README.md#recommended-mods)
+
+  
 # Equipment
 
 ## Keyblades
