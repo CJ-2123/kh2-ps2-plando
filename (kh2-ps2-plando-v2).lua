@@ -555,6 +555,8 @@ end
 function StartingStatus()
 	WriteByte(Btl0+0x310D3,0x14) -- Starting HP: 20
 	WriteShort(Btl0+0x310D4,0x0764) -- Starting AP: 7 Starting MP: 100
+	WriteByte(Btl0+0x33053,0x14) -- Starting HP: 20
+	WriteShort(Btl0+0x33054,0x3764) -- Starting AP: 55 Starting MP: 100
 -- Starting Stuff:
 	WriteShort(Btl0+0x3305C,0x0000)-- Starting with: EMPTY
 	WriteShort(Btl0+0x3305E,0x0000)-- Starting with: EMPTY
