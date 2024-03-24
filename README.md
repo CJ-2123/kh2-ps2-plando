@@ -47,6 +47,14 @@ The following abilities added in FM have been removed
 - Damage Control
 - Protect/Protectra/Protectga
 
+The following abilites still have FM ability costs
+- Combo Boost 5 AP (3 in OG)
+- Air Combo Boost 4 AP (3 in OG)
+- Experience Boost 4 AP (3 in OG)
+- Magic Lock-On 2 AP (1 in OG)
+
+To compensate, Sora starts with an extra 5 AP.
+
 ## Level Chart
 
 
@@ -261,6 +269,7 @@ Final
 
 The following FM content is still in the game due to not knowing how to remove or adjust them
 
+- Critical Mode still exists and playing it will still include extra AP and abilities
 - Drive Recoveries still refill 3 drive gauges instead of only 1 in non-FM
 - High Drive Recoveries still completely refill drive instead of only 3 in non-FM
 - Roxas is still a boss fight in The World That Never Was but he gives no rewards. 
@@ -268,6 +277,7 @@ The following FM content is still in the game due to not knowing how to remove o
 - Cavern of Remembrance, Transport to Remembrance, and Garden of Assemblage are still in the game but treasures and rewards have been removed
 
 - Various gameplay adjustments made in FM are the same
+	- Timeless River windows are the same as FM (OG has less waves)
 	- Conditions to end Twilight Town station fight, Beast's Castle parlor fight, and Agrabah street fight are the same (100 hits, low HP, or 90 seconds)
 	- Land of Dragons morale gauge and Cogsworth's grip gauge still deplete quicker than OG
 	- Timers changed for FM are still the same: 
@@ -275,9 +285,17 @@ The following FM content is still in the game due to not knowing how to remove o
 		- Carpet magic switches in Agrabah is still 45 seconds (30 seconds in OG)
 		- Spooky Cave mission in Hundred Acre Wood is still 5 minutes (3 minutes in OG)
 
+The following abilites still have FM ability costs
+- Combo Boost 5 AP (3 in OG)
+- Air Combo Boost 4 AP (3 in OG)
+- Experience Boost 4 AP (3 in OG)
+- Magic Lock-On 2 AP (1 in OG)
+
 # Recommended Mods
 
 For a closer experience to PS2 KH2, the following mods are recommended: 
+
+- Switching the in-game settings to 30 FPS 
 
 ## Visual/Audio Mods
 
